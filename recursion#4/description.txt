@@ -1,0 +1,12 @@
+## Recursion 4th excercise
+#Problem: Generate Binary Number for each case using recursions
+
+#Example input
+
+5
+12
+36
+100000
+999999999999999999
+868686868686858686858686866
+
